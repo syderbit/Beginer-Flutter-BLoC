@@ -1,4 +1,4 @@
-# bloc_state_management
+# BLoC State & Cubit State Management
 
 A new Flutter project.
 
